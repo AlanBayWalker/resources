@@ -1,4 +1,4 @@
 # Resources
-This is a repo for all the files and folders I carry through my apps.
+This is a repo for all the files and folders I carry through my apps, aswell as my resume and cover letter.
 
 (Some of the things in here need a license to be used)
